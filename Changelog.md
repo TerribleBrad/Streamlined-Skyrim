@@ -10,7 +10,7 @@
             - Horses Simply Turn Better (they did not turn better)
             - Sweet Stone Walls
             
-        - Regenerated Dyndolod, Texgen and Synthesis
+        - Regenerated Synthesis
                 
         - Main reason for update was to fix horse turing bug
 
