@@ -1,3 +1,23 @@
+#### Streamlined Skyrim 1.1.0
+
+I've made so many changes it's not even worth writing each one here, but here is the gist of it:
+
+Streamlined Skyrim was in dire need of a visual revamp. One of the main selling points of the list is that it was performance friendly, but I broke something and the fps was much worse then before. So I removed a large amount of mods and rebuilt the list from the ground up. During that process I made the decision to focus more on the visual aspect of the game and with that comes with some sacrifices to performance.
+
+Some changes are:
+Streamlined now comes with an ENB (which you can remove). Trees, mountains and flora have been replaced with higher quality models & textures. Character appearance has been revamped. Many new texture choices have been made. 
+
+With the ENB, Streamlined is by no means a performance list. It is now a list for mid to high tier systems. However, if you remove said ENB you can expect to gain quite a bit of fps.
+
+I know this may upset some folks with computers that aren't so powerful, so what I've done is saved a 1.0.3 version of Streamlined Skyrim for you to continue to use. It will be linked in my Discord.
+
+Major gameplay Changes (not comprehensive whatsoever):
+Removed Lawbringer, Open World Loot, and Wyrmstooth
+
+Regenerated all files : Dyndolod, Synthesis, Nemesis, and Lodgen
+
+
+
 #### Streamlined Skyrim 1.0.3
         - Added:
             - Unslaad Starting Requirements
