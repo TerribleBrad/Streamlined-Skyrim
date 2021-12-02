@@ -1,3 +1,20 @@
+#### Streamlined Skyrim 1.0.3
+        - Added:
+            - Unslaad Starting Requirements
+            - Smooth Random Blocking
+            - Sleeping Expanded
+            - Mary's Ivy
+            - True Nordic Farmhouses
+            
+        - Removed:
+            - Horses Simply Turn Better (they did not turn better)
+            - Sweet Stone Walls
+            
+        - Regenerated Synthesis
+                
+        - Main reason for update was to fix horse turing bug
+
+
 #### Streamlined Skyrim 1.0.2
     - Updated:
         - TK Dodge RE
