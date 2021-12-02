@@ -20,7 +20,6 @@
   - [Post-Installation](#post-installation)
     - [Copy Game Folder Files](#copy-game-folder-files)
     - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
-    - [Optional Enb](#optional-enb)
 - [Updating](#updating)
 - [In Game MCM Options](#in-game-mcm-options)
 - [How to start playing](#How-to-start-playing)
