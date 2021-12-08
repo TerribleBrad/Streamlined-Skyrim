@@ -66,7 +66,7 @@ To make sure you never run out of things to do, Streamlined Skyrim is equipped w
 
 **Followers**:
 
-Streamlined Skyrim comes with all of the best followers that the Skyrim modding community has to offer. Lucien, Shirley, Auri and Hoth are all prepared to join you on your adventure. And we can't forget about the doggo companions: Gladys the Corgi, Merlin the Corgi, True Meeko and Vigilance Reborn.
+Streamlined Skyrim comes with all of the best followers that the Skyrim modding community has to offer. Lucien, Inigo, Shirley, Auri and Hoth are all prepared to join you on your adventure. And we can't forget about the doggo companions: Gladys the Corgi, Merlin the Corgi, True Meeko and Vigilance Reborn.
 
 # Installation
 ### Prerequisites
