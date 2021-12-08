@@ -2,20 +2,16 @@
 
 I've made so many changes it's not even worth writing each one here, but here is the gist of it:
 
-Streamlined Skyrim was in dire need of a visual revamp. One of the main selling points of the list is that it was performance friendly, but I broke something and the fps was much worse then before. So I removed a large amount of mods and rebuilt the list from the ground up. During that process I made the decision to focus more on the visual aspect of the game and with that comes with some sacrifices to performance.
+Streamlined Skyrim was in dire need of a visual revamp. One of the main selling points of the list is that it was performance friendly, but I broke something and the fps got terrible. So I removed a large amount of mods and rebuilt the list from the ground up. In my humble opinion, Streamlined Skyrim now looks significantly better visually and now it performs much better then it once did.
 
 Some changes are:
-Streamlined now comes with an ENB (which you can remove). Trees, mountains and flora have been replaced with higher quality models & textures. Character appearance has been revamped. Many new texture choices have been made. 
+Streamlined Skyrim is now compiled with Anniversary Edition! Yay, no more downgrade needed!
+Trees, mountains and flora have been replaced with higher quality models & textures. Character appearance has been revamped. Many new texture choices have been made. New music has been added that fits nicely into the game. A number of mcms have been automated to simplify the installation process.
 
-With the ENB, Streamlined is by no means a performance list. It is now a list for mid to high tier systems. However, if you remove said ENB you can expect to gain quite a bit of fps.
-
-I know this may upset some folks with computers that aren't so powerful, so what I've done is saved a 1.0.3 version of Streamlined Skyrim for you to continue to use. It will be linked in my Discord.
-
-Major gameplay Changes (not comprehensive whatsoever):
+Major gameplay changes (not comprehensive whatsoever):
 Removed Lawbringer, Open World Loot, and Wyrmstooth
 
-Regenerated all files : Dyndolod, Synthesis, Nemesis, and Lodgen
-
+Regenerated all files : Dyndolod, Texgen, Synthesis, and Nemesis
 
 
 #### Streamlined Skyrim 1.0.3
