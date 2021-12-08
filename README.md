@@ -87,11 +87,11 @@ Fps: 55-60
 
 #### Size on Drive
 
-  - Over  GB for the Downloads folder
-  - Over  GB for the Installation folder
+  - Over 63.3 GB for the Downloads folder
+  - Over 90.42 GB for the Installation folder
   - ~15 GB for temporary files
 
-So  GB **minimum** is required. I cannot stress how much a SSD is needed for **at least** the game and the list. You can put your downloads in an HDD so it will only slow your installation process.
+So 158.54 GB **minimum** is required. I cannot stress how much a SSD is needed for **at least** the game and the list. You can put your downloads in an HDD so it will only slow your installation process.
 
 ### Pre-Installation
 
