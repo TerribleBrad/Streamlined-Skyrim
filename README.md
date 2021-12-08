@@ -218,10 +218,6 @@ Select 'New' to start a new game. You will load in to a view of Helgen. Wait aro
 ## In-Game MCM Options
 
 
-#### A Matter of Time
-- Presets :
-  - Load User Settings
-
 #### Dual Wield Parrying
 - Block Key : Mouse 5 (I prefer mouse keys for this, but if that is not an option select a key near WASD like V)
 
@@ -232,6 +228,7 @@ Select 'New' to start a new game. You will load in to a view of Helgen. Wait aro
 #### Optimal Potion Hotkey
 - Hotkeys
  - Health potion hotkey : H
+ (You can select a key for Stamina and Magicka potions as well)
 
 #### SmoothCam  
 - Presets
@@ -239,11 +236,6 @@ Select 'New' to start a new game. You will load in to a view of Helgen. Wait aro
 - Crosshair
    - Sneak Settings
       - Enable Stealth Meter Offset : Disable
-
-#### Timing is Everything
-- Extra Options 
-  - Load Preset  
-       - Cycle through all the menus and load preset again! Now all the changes will stick. 
 
 #### True Directional Movement (ONLY IF YOU DON'T HAVE A MOUSE WITH EXTRA KEYS)
 - General
