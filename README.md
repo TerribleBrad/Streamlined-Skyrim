@@ -6,6 +6,7 @@
 - [Noteworthy Mods and What Gameplay to Expect](#noteworthy-mods-and-what-gameplay-to-expect)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
+    - [Anniversary Edition Update is Required!](#anniversary-edition-update-is-required!)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
     - [Steam Config](#steam-config)
       - [Disable the Steam Overlay](#disable-the-steam-overlay)
@@ -35,40 +36,37 @@
 
 # Preamble
 
-Streamlined Skyrim offers modernized combat, new quests, enhanced roleplay mechanics, custom voiced followers, straightforward gameplay, and overhauled locations all while staying performance friendly. Using SkySA, True Directional Movement, and Tk Dodge, Skyrim's combat has never been more Streamlined.
+Streamlined Skyrim offers modernized combat, new quests, enhanced roleplay mechanics, custom voiced followers, straightforward gameplay, and overhauled locations all while staying performance friendly. Third person combat is overhauled using SkySA, True Directional Movement, and Tk Dodge RE.
 
 Streamlined Skyrim is a fork of the fantastic SME/FT list which I highly recommend to those who want to create their own modlist for Skyrim Special Edition.
 
-If you want to take a look at the full modlist here is the [link](https://loadorderlibrary.com/lists/streamlined-skyrim-1)
+If you want to take a look at the full modlist here is the [link](https://loadorderlibrary.com/lists/streamlined-skyrim-2)
 
 **Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation. Do not report issues/bugs/errors to mod authors! Seek out help from me or the other folks on the Wabbajack Discord**
 
-## Streamlined Skyrim does not work with Anniversary Addition!! If you accidently updated use [this](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files) to downgrade. ##
-
-
 # Noteworthy Mods and What Gameplay to Expect
 
-Streamlined Skyrim will drastically change your game. Perk trees will have new and interesting perks that offer more build flexibility. Combat is akin to what you might see in a Witcher or Dark Souls game. All of the best quests and followers are featured in the list to make sure there is always something new to do. The gameplay is rather difficult, but still fair. Roleplay mechanics have been added to further enhance Skyrim's replayablity.
+Streamlined Skyrim will drastically change your game. Perk trees will have new and interesting perks that offer more build flexibility. Combat is akin to what you might see in a Witcher or Dark Souls game. Some wonderful new quests and unique followers are featured in the list to make sure there is always something new to experience. The gameplay is rather difficult, but still fair. New roleplay mechanics have been added to further enhance Skyrim's replayablity.
 
 **General Gameplay**:
 
-Adamant - A Perk Overhaul is used to overhaul the perk tree allowing for new and unique character builds. Vanilla spells, scrolls and staffs are overhauled with Mysticism Magic of Skyrim which also adds some new spells that fit seemlessly into the game. Trade and Barter is used to make Skyrim's economy less forgiving making it more difficult to make coin. For those who love playing hero characters, Lawbringer allows you to truly rid Skyrim of all of its atrocities.
+Adamant - A Perk Overhaul is used to overhaul the perk tree allowing for new and unique character builds. Vanilla spells, scrolls and staffs are overhauled with Mysticism Magic of Skyrim which also adds some new spells that fit seemlessly into the game. Carriage and Ferry Travel Overhaul allows you to pay carriage drivers and ferrymen to bring you to smaller settlements and locations.
 
 **Combat**:
 
-SkySA Attack Commitment and True Directional Movement are the bread and butter of Streamlined Skyrim's combat overhaul. SkySA forces you to commit to your attacks and TDM allows for movement in all directions and target lock on. You are able to dodge enemies attacks using TK Dodge completely negating damage. AMMCO prevents running during combat forcing you to pay close attention to your stamina. Streamlined Skyrim doesn't add tons of new enemies and bosses instead making combat more difficult in other ways. You are no longer allowed to save in combat and when your Stamina runs out you are unable to defend yourself and attack. With Open World Loot, you will see higher level enemies earlier and give the you a solid sense of progression as you level up. To make things more realistic, Flinching and Zxxclice Hitstop make your swings look and feel like they are actually hitting something.
+SkySA Attack Commitment and True Directional Movement are the bread and butter of Streamlined Skyrim's combat overhaul. SkySA forces you to commit to your attacks and TDM allows for movement in all directions and target lock on. You are able to dodge enemies attacks using TK Dodge RE completely negating damage. Streamlined Skyrim doesn't add tons of new enemies and bosses instead making combat more difficult in other ways. You are no longer allowed to save in combat and when your Stamina runs out you are unable to defend yourself and attack. To make things more realistic, Flinching and Zxxclice Hitstop make your swings look and feel like they are actually hitting something.
 
 **Roleplay Mechanics**:
 
-Streamlined Skyrim has a number of mods that increase the roleplay options of your characters. The Realm of Lorkhan is used as the alternate start mod for its unique worldspace that offers optional attributes and boons to help flesh out your early game character. With Pilgrim - A Religion Overhaul you are able to worship a deity of your choosing. Perhaps you'll worship Talos like a true Nord or maybe Boethiah if you revere the reclaimations. The mod Experience turns Skyrim into a true roleplaying game. You gain level experience from completing quests and discovering locations. Skyrim's Got Talent allows your character to become a bard and boasts an immersive progression system and new instrumental songs that fit right into the game.
+Streamlined Skyrim has a number of mods that increase the roleplay options of your characters. Skyrim Unbound is used as the alternate start mod to skip the monotonous Helgen intro. With Pilgrim - A Religion Overhaul you are able to worship a deity of your choosing. Perhaps you'll worship Talos like a true Nord or maybe Boethiah if you revere the Reclaimations. The mod Experience turns Skyrim into a true roleplaying game. You gain level experience from completing quests, slaying enemies and discovering locations. Skyrim's Got Talent allows your character to become a bard and boasts an immersive progression system and new instrumental songs that fit right into the game.
 
 **Quests**:
 
-To make sure you never run out of things to do, Streamlined Skyrim is equipped with some incredible quests. Vigilant and Unslaad add some Soulsborne flavor. Project AHO for all you Dunmer lovers. Stendarr Rising for all the do-gooders of Skyrim. And finally Beyond Skyrim Bruma which offers a DLC sized amount of new content. 
+To make sure you never run out of things to do, Streamlined Skyrim is equipped witha number of DLC sized quests. Vigilant and Unslaad add some Soulsborne flavor which suits the new combat mechanics well. Project AHO for all you Dunmer lovers. Stendarr Rising which allows you to rebuild the Vigilant of Stendarr. And finally Beyond Skyrim Bruma which adds the northern-most lands of Cyrodiil for you to explore.
 
 **Followers**:
 
-Streamlined Skyrim comes with all of the best followers that the Skyrim modding community has to offer. From Lucien, to Inigo and from Hoth to Serena Dialogue Addon you'll be sure to get your fill of unique followers. And we can't forget about the doggo companions: Gladys the Corgi, True Meeko and Vigilance Reborn.
+Streamlined Skyrim comes with all of the best followers that the Skyrim modding community has to offer. Lucien, Shirley, Auri and Hoth are all prepared to join you on your adventure. And we can't forget about the doggo companions: Gladys the Corgi, Merlin the Corgi, True Meeko and Vigilance Reborn.
 
 # Installation
 ### Prerequisites
@@ -85,19 +83,22 @@ RAM: 16 GB
 
 Storage: 500 GB SSD
 
-Fps: 50-60
+Fps: 55-60
 
 #### Size on Drive
 
-  - Over 54.4 GB for the Downloads folder
-  - Over 89.6 GB for the Installation folder
+  - Over 63.3 GB for the Downloads folder
+  - Over 90.42 GB for the Installation folder
   - ~15 GB for temporary files
 
-So 159 GB **minimum** is required. I cannot stress how much a SSD is needed for **at least** the game and the list. You can put your downloads in an HDD so it will only slow your installation process.
+So 158.54 GB **minimum** is required. I cannot stress how much a SSD is needed for **at least** the game and the list. You can put your downloads in an HDD so it will only slow your installation process.
 
 ### Pre-Installation
 
 These steps are only needed if you install the Modlist for the first time. If you are updating the Modlist, jump straight to [Updating](#updating).
+
+### Anniversary Edition Update is Required!
+Streamlined Skyrim now is compiled with the Anniversary Edition Update of Skyrim. Anniversary Edition DLC is not needed just the most recent update. However, it does not support any of the Creation Club content! Support is forfeit if you use Creation Club Mods! If you have installed all of the Creation Club content you can simply disable all of them in MO2.
 
 #### Installing Microsoft Visual C++ Redistributable Package
 
@@ -141,17 +142,6 @@ After you have done everything above and got a clean SSE installation ready, sta
 
 Start the game and exit once you're in the main menu.
 
-## Revert to pre-AE Skyrim
-Streamlined Skyrim does not currently support Skyrim Anniversary Edition.
-
-If you downloaded or updated Skyrim SE after 11/11/2021, you are on version 1.6.318.0 which will not work with Streamlined, regardless of whether you own the Anniversary Edition DLC or not. You need to downgrade your installation to 1.5.97.0 before you can proceed.
-
-Download halgari’s [Unofficial Skyrim Special Edition Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618) from the Nexus (Full Patcher).
-Extract the contents of the archive to a convenient location and run Patcher.exe.
-It should find your Skyrim SE folder automatically and display the file path.
-Click the green Start Patching button and wait for the process to complete.
-When the tool returns Finished Patching, enjoy your game!, you can close it and proceed.
-Skyrim SE Version Downgrade
 
 ### Using Wabbajack
 
@@ -223,63 +213,13 @@ Updating is like installing. You only have to make sure that you select the same
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
 
-Select 'New' to start a new game. Once you have finished character creation allow all of the start of game scripts to finish loading before doing anything. Do NOT change race with showracemenu after confirming your character! It is time to configure all the mcm menus!
-
+Select 'New' to start a new game. You will load in to a view of Helgen. Wait around 15 seconds to allow for the start of game scripts to finish running. Now open your mcm settings and follow the instructions below.
 
 ## In-Game MCM Options
 
 
-#### A Matter of Time
-
-- Presets :
-  - Load User Settings
-
-#### Commentary Rate Configuration
-- Minimum Time Between Comments : 20
-- Maximum Time Between Comments : 30
-
-#### Deflection
- - Options
-     - Timed Block Options
-       - Choose Block Damage Modifier : 100%
-       - Timed Block Winder : 0.3 Seconds
-       - NPC Stagger Time : 1 Seconds
-     - Magic Parrying Options
-       - Reflect Magic : Disabled
-       - Npc Magic Stagger : Disabled
-     - Misc Options
-       - Perfect Block Message : Disabled
-
 #### Dual Wield Parrying
 - Block Key : Mouse 5 (I prefer mouse keys for this, but if that is not an option select a key near WASD like V)
-
-#### EVG Conditional Idles: (Personal Preference)
-- Player
-    - Movement Enabled:
-        - Cold : Disabled
-        - Injured : Disabled
-    - Idle
-        - Fatigued Stage 1 : Disable
-        - Fatigued Stage 2 : Disable
-- NPC
-    - Movement Enabled:
-        - Cold : Disabled
-    - Idle
-        - Fatigued Stage 1 : Disable
-        
-#### Immersive HUD
-- Activation
-  - Compass Activation
-    - iHUD hotkey : (your choice you'll click it once and never use it again)
-    - Key press toggles : Enabled
-  - Crosshair Activation
-    - Wielding ranged weapon : Disabled
-    - Wielding spell : Disabled
-
-#### moreHUD
-- Presets
-  - Save Settings with FISS
-    - Load User Settings? : GO
 
 #### NASC
 - Mod Options
@@ -288,15 +228,7 @@ Select 'New' to start a new game. Once you have finished character creation allo
 #### Optimal Potion Hotkey
 - Hotkeys
  - Health potion hotkey : H
- 
- #### SkyUI
-- General → Item List :
-  - Font Size : Small
-  - Category Icon Theme : Curved
- 
-#### Smart NPC Potions
-- Custom Values
-  - Max number of potions : 2
+ (You can select a key for Stamina and Magicka potions as well)
 
 #### SmoothCam  
 - Presets
@@ -305,45 +237,40 @@ Select 'New' to start a new game. Once you have finished character creation allo
    - Sneak Settings
       - Enable Stealth Meter Offset : Disable
 
-#### Timing is Everything
-- Extra Options 
-  - Load Preset  
-
-#### Trade&Barter
-- Barter Rates
-  - Settings
-      - Modify Barter Settings : Enable
-  - Presets
-      - Barter Presets : Difficult 
-
-#### True Directional Movement
+#### True Directional Movement (ONLY IF YOU DON'T HAVE A MOUSE WITH EXTRA KEYS)
 - General
     - Controls
-      - Toggle Target Lock Key : ( It is set to Mouse 4, but if you don't have a mouse with extra buttons use a key near WASD like G)
+      - Toggle Target Lock Key : It is set to Mouse 4, but if you don't have a mouse with extra buttons use a key near WASD like G
+
+#### Skyrim Unbound
+Here you can select your own desired settings for your playthrough.
+## IMPORTANT: In the Dragons and Shouts section for the the 'Dragon Souls' setting, you need to select 'DRAGONBORN' if you want to play a Dragonborn character. It is set as random by default so be sure to make this choice now!
+
    
-#### Violens
-- Profile System
-   - Menu Settings
-      - Load : Streamlined Skyrim Violens
+## How to start playing
+Once you have finished setting creating your character a prompt will show up on your screen. Simply select continue and you will spawn at your selected location!
 
 #### Game Difficulty
 - The difficulty in Streamlined Skyrim is quite a bit harder than Vanilla so I suggest not using Legendary. I personally play on Expert.
 
 ## Key Bindings:
-  - Space bar : it is the dodge key in this mod list. You will need to change jump to be a different key to allow yourself to dodge.
-  - Toggle Target Lock : Mouse 4. If you don't have a mouse with extra buttons use a key near WASD like G
+  - Dodge Key : Spacebar 
+  - Toggle Target Lock : Mouse 4
   - Health Potion Hotkey : H
   - Dual Wield Block : Mouse 5
-  - Map: x
-  - Jump: c
- 
-
-## How to start playing
-You are now in the Realm of Lorkhan which allows you to select some attributes, your standing stone, and find some early game gear. Realm of Lorkhan is designed for you to explore and find your own path so take your time here you can never go back. Note that there are some higher level weapons that can be found which I recommend against using. When you are satisfied with your character gear and attributes select one of the large Soul gems and you will be transported to a starting area. You are now free to play the game like normal!
+  - Jump: C
+  - Shout/Power: F
+  - Sneak: Q
+  - Favorites: Shift
+  - Quick Map: X
+  - Lantern: L or Hold E
+  - Compass Hotkey: |\ (toggles)
 
 
 ## Last Things to Note
-Streamlined Skyrim's combat is very different from the vanilla game so when you first start playing the list it will take some time to get used to. The goal of this combat overhaul is to make combat more skill based and to turn Skyrim's combat into something you'd find in a Dark Souls or Witcher game. The AI of enemies has been improved and they will be much more agressive. Stamina will regenerate much more quickly, but light attacks and dodges will consume it. True Directional Combat gives you the ability to lock onto targets and move in all directions. Optimal Potion Hotkey allows you to consume potions without having to open a menu. Pressing the space bar allows you to dodge. If you block an opponents attack within 0.3 seconds of it connecting your opponent will stagger. These changes will take some getting used to, but with time you will realize that you can never go back to vanilla Skyrim's janky combat.
+Streamlined Skyrim's combat is very different from the vanilla game so when you first start playing the list it will take some time to get used to. The AI of enemies has been improved and they will be much more agressive. Stamina will regenerate much more quickly, but light attacks and dodges will consume it. True Directional Combat gives you the ability to lock onto targets and move in all directions. Use the mouse wheel to swap targets. Optimal Potion Hotkey allows you press H to consume potions without having to open a menu. Do NOT use when in first person! Pressing the space bar allows you to dodge. If you block an opponents attack within 0.2 seconds of it connecting your opponent will stagger. Your timing needs to be sharp! 
+
+Now that you have finished reading the Readme you are free to traverse the world of Skyrim!
 
 
 ## FAQ
@@ -367,7 +294,7 @@ Ask it in my Discord, link [here](https://discord.gg/JK3V6GwqfM) or Wabbajack's 
 
 ### Creation Club (CC Content) Support?
 
-No, I don't like them.
+No!
 
 CC Content isn't considered like DLCs (Dawnguard/Dragonborn/Hearthfire) and will never be treated as such.
 
