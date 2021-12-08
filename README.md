@@ -46,11 +46,11 @@ If you want to take a look at the full modlist here is the [link](https://loador
 
 # Noteworthy Mods and What Gameplay to Expect
 
-Streamlined Skyrim will drastically change your game. Perk trees will have new and interesting perks that offer more build flexibility. Combat is akin to what you might see in a Witcher or Dark Souls game. Some wonderful new quests and unique followers are featured in the list to make sure there is always something new to experience. The gameplay is rather difficult, but still fair. New roleplay mechanics have been added to further enhance Skyrim's replayablity.
+Streamlined Skyrim will drastically change your game. Perk trees will have new and interesting perks that offer more build flexibility. Combat is akin to what you might see in a Witcher or Dark Souls game. Some wonderful new quests and unique followers are featured in the list to make sure there is always something new to experience. The gameplay is rather difficult, but still fair. New roleplay mechanics have been added to further enhance Skyrim's replayability.
 
 **General Gameplay**:
 
-Adamant - A Perk Overhaul is used to overhaul the perk tree allowing for new and unique character builds. Vanilla spells, scrolls and staffs are overhauled with Mysticism Magic of Skyrim which also adds some new spells that fit seemlessly into the game. Carriage and Ferry Travel Overhaul allows you to pay carriage drivers and ferrymen to bring you to smaller settlements and locations.
+Adamant - A Perk Overhaul is used to overhaul the perk tree allowing for new and unique character builds. Vanilla spells, scrolls and staffs are overhauled with Mysticism Magic of Skyrim which also adds some new spells that fit seemlessly into the game. Carriage and Ferry Travel Overhaul allows you to pay carriage drivers and ferrymen to bring you to smaller settlements and locations. Growl and Sacrilege overhaul the beast races in a lore-friendly way while also enhancing their respective perk trees and powers. Apothecary and Thaumaturgy handle alchemy and enchanting, providing balancing and new effects.
 
 **Combat**:
 
@@ -62,7 +62,7 @@ Streamlined Skyrim has a number of mods that increase the roleplay options of yo
 
 **Quests**:
 
-To make sure you never run out of things to do, Streamlined Skyrim is equipped witha number of DLC sized quests. Vigilant and Unslaad add some Soulsborne flavor which suits the new combat mechanics well. Project AHO for all you Dunmer lovers. Stendarr Rising which allows you to rebuild the Vigilant of Stendarr. And finally Beyond Skyrim Bruma which adds the northern-most lands of Cyrodiil for you to explore.
+To make sure you never run out of things to do, Streamlined Skyrim is equipped with a number of DLC sized quests. Vigilant and Unslaad add some Soulsborne flavor which suits the new combat mechanics well. Project AHO for all you Dunmer lovers. The mod Stendarr Rising is added which allows you to rebuild the Vigilant of Stendarr. And finally Beyond Skyrim Bruma which adds the northern-most lands of Cyrodiil for you to explore.
 
 **Followers**:
 
@@ -83,7 +83,7 @@ RAM: 16 GB
 
 Storage: 500 GB SSD
 
-Fps: 55-60
+Fps: 52-60
 
 #### Size on Drive
 
