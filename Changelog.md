@@ -2,6 +2,10 @@
         - Added:
                 - Soul-Cairn Objects Secured
                 - No Thieves Guild Grind
+                - First Person Camera Height Fix
+                - Myrkvior - The Flora of Skyrim
+                
+             
                 
 
 #### Streamlined Skyrim 1.1.0
