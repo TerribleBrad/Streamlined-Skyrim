@@ -1,3 +1,9 @@
+#### Streamlined Skyrim 1.1.1
+        - Added:
+                - Soul-Cairn Objects Secured
+                - No Thieves Guild Grind
+                
+
 #### Streamlined Skyrim 1.1.0
 
 I've made so many changes it's not even worth writing each one here, but here is the gist of it:
