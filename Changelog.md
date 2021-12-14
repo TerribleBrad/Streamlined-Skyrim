@@ -9,6 +9,7 @@
                 - Spiders of Solstheim - Transparency Fix
                 - Hand to Hand - An Adamant Addon
                 - Hand to Hand Trainers and Skill Books Addon and Nordic UI Consistency Patch
+                - Seamless Combat Camera
                 
          - Removed:
                 - MoreHud Settings Loader
