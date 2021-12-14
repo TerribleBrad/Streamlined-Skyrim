@@ -9,8 +9,10 @@
                 - Spiders of Solstheim - Transparency Fix
                 - Hand to Hand - An Adamant Addon
                 - Hand to Hand Trainers and Skill Books Addon and Nordic UI Consistency Patch
+                
          - Removed:
                 - MoreHud Settings Loader
+                - Vanilla Script Optimizations
                 
          - Updated:
                 - Pilgrim
@@ -19,7 +21,7 @@
                 - Apothecary
                 
              
-Fixed MoreHud not being in mcm. Couldn't get the settings loader to work so its back to manual setup.
+Fixed MoreHud not being in mcm. Couldn't get the settings loader to work so its back to manual setup. Entering Dragonsreach would sometimes result in permanat black screen which should be fixed now. Hasn't happened to me after a number of tests.
              
                 
 
