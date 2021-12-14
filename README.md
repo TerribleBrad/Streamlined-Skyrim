@@ -249,7 +249,7 @@ Here you can select your own desired settings for your playthrough.
 
    
 ## How to start playing
-Once you have finished setting creating your character a prompt will show up on your screen. Simply select continue and you will spawn at your selected location!
+Once you have finished setting creating your character a prompt will show up on your screen. Simply select continue and you will spawn at your selected location! To start the main quest as Dragonborn, you must slay a dragon. Skyrim Unbound removes the Helgen, Bleak Falls Barrow and slaying Mulmulnir at the watchtower quests. Once you absorb a dragon soul the Greybeards will summon you. To become Thane of Whiterun you must help Danica Pure-Spring regrow the Gildergreen. You will get your Thaneship title, the option to buy Breezehome and Lydia as a follower. 
 
 #### Game Difficulty
 - The difficulty in Streamlined Skyrim is quite a bit harder than Vanilla so I suggest not using Legendary. I personally play on Expert.
