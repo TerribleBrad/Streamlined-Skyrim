@@ -10,6 +10,8 @@
                 - Hand to Hand - An Adamant Addon
                 - Hand to Hand Trainers and Skill Books Addon and Nordic UI Consistency Patch
                 - Seamless Combat Camera
+                - Chest HD
+                - Elsopa HD Grindstone Redone + 10x Sparks
                 
          - Removed:
                 - MoreHud Settings Loader
