@@ -14,6 +14,10 @@
          - Removed:
                 - MoreHud Settings Loader
                 - Vanilla Script Optimizations
+                - No Floating Fog
+                - Origins of the Forest
+                - FISS
+                - Deflection
                 
          - Updated:
                 - Pilgrim
