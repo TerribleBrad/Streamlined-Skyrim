@@ -225,10 +225,11 @@ Select 'New' to start a new game. You will load in to a view of Helgen. Wait aro
 - Mod Options
   - Stamina Consumption : 10
 
-#### Optimal Potion Hotkey
-- Hotkeys
- - Health potion hotkey : H
- (You can select a key for Stamina and Magicka potions as well)
+#### MoreHUD
+- Presets
+  - Save setting with PapyrusUtil
+    -   Preset : Streamlined Preset
+    -   Load User Settings? : Go
 
 #### SmoothCam  
 - Presets
@@ -238,7 +239,7 @@ Select 'New' to start a new game. You will load in to a view of Helgen. Wait aro
       - Enable Stealth Meter Offset : Disable
 
 #### True Directional Movement (ONLY IF YOU DON'T HAVE A MOUSE WITH EXTRA KEYS)
-- General
+- Target Lock
     - Controls
       - Toggle Target Lock Key : It is set to Mouse 4, but if you don't have a mouse with extra buttons use a key near WASD like G
 
