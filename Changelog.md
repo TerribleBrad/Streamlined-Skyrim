@@ -3,7 +3,18 @@
                 - Soul-Cairn Objects Secured
                 - No Thieves Guild Grind
                 - First Person Camera Height Fix
-                - Myrkvior - The Flora of Skyrim
+                - Concave Shield of Ysgramor
+                - Sheathed Harkon's Sword
+                - Sheathed Ebony Blade
+                - Spiders of Solstheim - Transparency Fix
+                - Hand to Hand - An Adamant Addon
+                - Hand to Hand Trainers and Skill Books Addon and Nordic UI Consistency Patch
+                
+         - Updated:
+                - Pilgrim
+                - Adamant
+                - Thaumaturgy
+                - Apothecary
                 
              
                 
