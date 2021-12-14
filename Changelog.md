@@ -9,6 +9,8 @@
                 - Spiders of Solstheim - Transparency Fix
                 - Hand to Hand - An Adamant Addon
                 - Hand to Hand Trainers and Skill Books Addon and Nordic UI Consistency Patch
+         - Removed:
+                - MoreHud Settings Loader
                 
          - Updated:
                 - Pilgrim
@@ -16,6 +18,8 @@
                 - Thaumaturgy
                 - Apothecary
                 
+             
+Fixed MoreHud not being in mcm. Couldn't get the settings loader to work so its back to manual setup.
              
                 
 
