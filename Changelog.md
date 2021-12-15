@@ -12,6 +12,7 @@
                 - Seamless Combat Camera
                 - Chest HD
                 - Elsopa HD Grindstone Redone + 10x Sparks
+                - Cleaned Skyrim SE Textures
                 
          - Removed:
                 - MoreHud Settings Loader
@@ -28,7 +29,7 @@
                 - Apothecary
                 
              
-Fixed MoreHud not being in mcm. Couldn't get the settings loader to work so its back to manual setup. Entering Dragonsreach would sometimes result in permanent black screen which should be fixed now. Hasn't happened to me after a number of tests.
+Fixed MoreHud not being in mcm. Couldn't get the settings loader to work so its back to manual setup.
              
                 
 
