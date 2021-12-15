@@ -13,6 +13,8 @@
                 - Chest HD
                 - Elsopa HD Grindstone Redone + 10x Sparks
                 - Cleaned Skyrim SE Textures
+                - Clavicus Vile
+                - Rugnarok
                 
          - Removed:
                 - MoreHud Settings Loader
@@ -21,6 +23,7 @@
                 - Origins of the Forest
                 - FISS
                 - Deflection
+                
                 
          - Updated:
                 - Pilgrim
