@@ -6,7 +6,7 @@
 - [Noteworthy Mods and What Gameplay to Expect](#noteworthy-mods-and-what-gameplay-to-expect)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
-    - [Fully Update Your Game in Steam!!](#fully-update-your-game-in-steam!)
+    - [Downgrade to 1.6.323](#downgrade-to-1.6.323)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
     - [Steam Config](#steam-config)
       - [Disable the Steam Overlay](#disable-the-steam-overlay)
@@ -97,8 +97,8 @@ So 158.54 GB **minimum** is required. I cannot stress how much a SSD is needed f
 
 These steps are only needed if you install the Modlist for the first time. If you are updating the Modlist, jump straight to [Updating](#updating).
 
-### Fully Update Your Game in Steam!
-Streamlined Skyrim now is compiled with the most recent update of Skyrim SE. Anniversary Edition DLC is not required just the most recent update. Having installed the AE DLC is fine too. However, Streamlined does not support any of the Creation Club content! Support is forfeit if you use Creation Club Mods!
+### Downgrade to 1.6.323 
+Streamlined Skyrim now is compiled with the 1.6.323 of Skyrim SE. Use this [patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files) to downgrade from 324 to 323. It is in the optional files! Anniversary Edition DLC is not required just the most recent update. Streamlined does not support any of the Creation Club content! Support is forfeit if you use Creation Club Mods!
 
 #### Installing Microsoft Visual C++ Redistributable Package
 
