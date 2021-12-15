@@ -15,6 +15,7 @@
                 - Cleaned Skyrim SE Textures
                 - Clavicus Vile
                 - Rugnarok
+                - Smoothcam Adventurer's Preset
                 
          - Removed:
                 - MoreHud Settings Loader
@@ -23,6 +24,7 @@
                 - Origins of the Forest
                 - FISS
                 - Deflection
+                - Modern Camera Preset
                 
                 
          - Updated:
@@ -30,9 +32,11 @@
                 - Adamant
                 - Thaumaturgy
                 - Apothecary
-                
+                - SKSE Engine Fixes
+                - Assorted Mesh Fixes
+                - Scrambled Bugs
              
-Fixed MoreHud not being in mcm. Couldn't get the settings loader to work so its back to manual setup.
+New UI! Fixed MoreHud not being in mcm. Couldn't get the settings loader to work so its back to manual setup. Quicksave is now a regualr save. Waiting and sleeping is faster.
              
                 
 
