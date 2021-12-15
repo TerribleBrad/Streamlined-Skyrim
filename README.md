@@ -233,10 +233,7 @@ Select 'New' to start a new game. You will load in to a view of Helgen. Wait aro
 
 #### SmoothCam  
 - Presets
-  - Load Preset : Modern Camera Preset
-- Crosshair
-   - Sneak Settings
-      - Enable Stealth Meter Offset : Disable
+  - Load Preset : Adventurer's Preset
 
 #### True Directional Movement (ONLY IF YOU DON'T HAVE A MOUSE WITH EXTRA KEYS)
 - Target Lock
@@ -249,7 +246,7 @@ Here you can select your own desired settings for your playthrough.
 
    
 ## How to start playing
-Once you have finished setting creating your character a prompt will show up on your screen. Simply select continue and you will spawn at your selected location! To start the main quest as Dragonborn, you must slay a dragon. Skyrim Unbound removes the Helgen, Bleak Falls Barrow and slaying Mulmulnir at the watchtower quests. Once you absorb a dragon soul the Greybeards will summon you. To become Thane of Whiterun you must help Danica Pure-Spring regrow the Gildergreen. You will get your Thaneship title, the option to buy Breezehome and Lydia as a follower. 
+Once you have finished setting creating your character a prompt will show up on your screen. Simply select continue and you will spawn at your selected location! To start the main quest as Dragonborn, you must slay a dragon. Skyrim Unbound removes the Helgen, Bleak Falls Barrow and slaying Mulmulnir at the watchtower quests. Once you absorb a dragon soul the Greybeards will summon you. To become Thane of Whiterun you must help Danica Pure-Spring regrow the Gildergreen. You will then get your Thaneship title, the option to buy Breezehome and Lydia as a follower. 
 
 #### Game Difficulty
 - The difficulty in Streamlined Skyrim is quite a bit harder than Vanilla so I suggest not using Legendary. I personally play on Expert.
@@ -265,11 +262,11 @@ Once you have finished setting creating your character a prompt will show up on 
   - Favorites: Shift
   - Quick Map: X
   - Lantern: L or Hold E
-  - Compass Hotkey: |\ (toggles)
+  - Map icon Hotkey: |\ (toggles) (Turn it on!)
 
 
 ## Last Things to Note
-Streamlined Skyrim's combat is very different from the vanilla game so when you first start playing the list it will take some time to get used to. The AI of enemies has been improved and they will be much more agressive. Stamina will regenerate much more quickly, but light attacks and dodges will consume it. True Directional Combat gives you the ability to lock onto targets and move in all directions. Use the mouse wheel to swap targets. Optimal Potion Hotkey allows you press H to consume potions without having to open a menu. Do NOT use when in first person! Pressing the space bar allows you to dodge. If you block an opponents attack within 0.2 seconds of it connecting your opponent will stagger. Your timing needs to be sharp! 
+Streamlined Skyrim's combat is very different from the vanilla game so when you first start playing the list it will take some time to get used to. The AI of enemies has been improved and they will be much more agressive. Stamina will regenerate much more quickly, but light attacks and dodges will consume it. True Directional Movement gives you the ability to lock onto targets and move in all directions. Use the mouse wheel to swap targets. Optimal Potion Hotkey allows you press H to consume potions without having to open a menu. Do NOT use when in first person! Pressing the space bar allows you to dodge. If you block an opponents attack within 0.2 seconds of it connecting your opponent will stagger. Your timing needs to be sharp! 
 
 Now that you have finished reading the Readme you are free to traverse the world of Skyrim!
 
