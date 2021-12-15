@@ -16,6 +16,7 @@
                 - Clavicus Vile
                 - Rugnarok
                 - Smoothcam Adventurer's Preset
+                - Improved Gourds
                 
          - Removed:
                 - MoreHud Settings Loader
@@ -38,7 +39,7 @@
              
 New UI! Fixed MoreHud not being in mcm. Couldn't get the settings loader to work so its back to manual setup. Quicksave is now a regualr save. Waiting and sleeping is faster.
              
-                
+            NEW SAVE IS REQUIRED! Cause perk tree changes from Hand to Hand
 
 #### Streamlined Skyrim 1.1.0
 
