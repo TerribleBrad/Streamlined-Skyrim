@@ -2,7 +2,6 @@
         - Added:
                 - Soul-Cairn Objects Secured
                 - No Thieves Guild Grind
-                - First Person Camera Height Fix
                 - Concave Shield of Ysgramor
                 - Sheathed Harkon's Sword
                 - Sheathed Ebony Blade
@@ -17,6 +16,14 @@
                 - Rugnarok
                 - Smoothcam Adventurer's Preset
                 - Improved Gourds
+                - Dual Wield Parrying Reimplementation
+                - Dual Wield Parrying Reimplementation Settings Loader
+                - SkySA Grip Switch
+                - SkySA Grip Switch Settings Loader
+                - Elder Souls Sweep Attack
+                - A Quality World Map
+                - Weather of World
+                
                 
          - Removed:
                 - MoreHud Settings Loader
@@ -26,6 +33,9 @@
                 - FISS
                 - Deflection
                 - Modern Camera Preset
+                - Valravn Uncloaked
+                - A Clear Map of Skyrim and Other Worlds
+                - ACMOS Bruma
                 
                 
          - Updated:
