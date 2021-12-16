@@ -18,11 +18,9 @@
                 - Improved Gourds
                 - Dual Wield Parrying Reimplementation
                 - Dual Wield Parrying Reimplementation Settings Loader
-                - SkySA Grip Switch
-                - SkySA Grip Switch Settings Loader
                 - Elder Souls Sweep Attack
-                - A Quality World Map
-                - Weather of World
+                - Simple Offence Suppression
+             
                 
                 
          - Removed:
@@ -34,8 +32,6 @@
                 - Deflection
                 - Modern Camera Preset
                 - Valravn Uncloaked
-                - A Clear Map of Skyrim and Other Worlds
-                - ACMOS Bruma
                 
                 
          - Updated:
@@ -49,7 +45,7 @@
              
 New UI! Fixed MoreHud not being in mcm. Couldn't get the settings loader to work so its back to manual setup. Quicksave is now a regualr save. Waiting and sleeping is faster.
              
-            NEW SAVE IS REQUIRED! Cause perk tree changes from Hand to Hand
+            NEW SAVE IS REQUIRED because of perk tree changes made by Hand to Hand
 
 #### Streamlined Skyrim 1.1.0
 
