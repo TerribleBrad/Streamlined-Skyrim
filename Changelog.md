@@ -20,6 +20,7 @@
                 - Dual Wield Parrying Reimplementation Settings Loader
                 - Elder Souls Sweep Attack
                 - Simple Offence Suppression
+                - Flora Collection - All In One
              
                 
                 
@@ -32,6 +33,10 @@
                 - Deflection
                 - Modern Camera Preset
                 - Valravn Uncloaked
+                - 3D Trees and Plants
+                - Rallys Hanging Moss
+                - Pine Shrub Killer
+                - Less Ugly Tundragrass
                 
                 
          - Updated:
