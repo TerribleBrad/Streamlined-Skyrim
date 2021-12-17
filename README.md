@@ -40,7 +40,7 @@ Streamlined Skyrim offers modernized combat, new quests, enhanced roleplay mecha
 
 Streamlined Skyrim is a fork of the fantastic SME/FT list which I highly recommend to those who want to create their own modlist for Skyrim Special Edition.
 
-If you want to take a look at the full modlist here is the [link](https://loadorderlibrary.com/lists/streamlined-skyrim-3)
+If you want to take a look at the full modlist here is the [link](https://loadorderlibrary.com/lists/streamlined-skyrim-4)
 
 **Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation. Do not report issues/bugs/errors to mod authors! Seek out help from me or the other folks on the Wabbajack Discord**
 
