@@ -1,3 +1,80 @@
+#### Streamlined Skyrim 1.1.1
+        - Added:
+                - Soul-Cairn Objects Secured
+                - No Thieves Guild Grind
+                - Concave Shield of Ysgramor
+                - Sheathed Harkon's Sword
+                - Sheathed Ebony Blade
+                - Spiders of Solstheim - Transparency Fix
+                - Hand to Hand - An Adamant Addon
+                - Hand to Hand Trainers and Skill Books Addon and Nordic UI Consistency Patch
+                - Seamless Combat Camera
+                - Chest HD
+                - Elsopa HD Grindstone Redone + 10x Sparks
+                - Cleaned Skyrim SE Textures
+                - Clavicus Vile
+                - Rugnarok
+                - Smoothcam Adventurer's Preset
+                - Improved Gourds
+                - Dual Wield Parrying Reimplementation
+                - Dual Wield Parrying Reimplementation Settings Loader
+                - Elder Souls Sweep Attack
+                - Simple Offence Suppression
+                - Flora Collection - All In One 2K
+                - Quieter Wolf Breathing
+                - Quieter Riekling
+                - Smooth Random Jump Animations
+                - Security Overhaul SKSE - Some More Locks
+                - More Radiant Quests for Companions
+                - Simple Dual Sheath
+                - Quick Light SE SMIM Lantern
+                - Simply Smaller Wolves
+                - Red Poppy 2K
+                - XP32 Maximum Skeleton
+                - No Boring Sleep-Wait Menu
+                - Mace of Aevar Stone-Singer (for Aosana <3)
+                - Nordic UI Persistent Meters
+                - Simple Sprint Dodge Animation Replacer
+                - Smooth Dar Combat Dodge
+                - Smooth Dar Combat Dodge Add-on
+                - Weapon Armor Attribute Tweaks
+                - Sheathed Ebony Blade
+                - Remiros' Ebony Blade HD
+                - Unique Item Tweaks
+                - Action Based Projectiles
+                
+                
+         - Removed:
+                - MoreHud Settings Loader
+                - Vanilla Script Optimizations
+                - No Floating Fog
+                - Origins of the Forest
+                - FISS
+                - Deflection
+                - Modern Camera Preset
+                - Valravn Uncloaked
+                - 3D Trees and Plants
+                - Rallys Hanging Moss
+                - Pine Shrub Killer
+                - Less Ugly Tundragrass
+                - Guard Dialogue Overhaul
+                - Haugbui
+                
+                
+         - Updated:
+                - Pilgrim
+                - Adamant
+                - Thaumaturgy
+                - Apothecary
+                - SKSE Engine Fixes
+                - Assorted Mesh Fixes
+                - Scrambled Bugs
+                - Reliquary of Myth
+             
+Streamlined is compiled with the new update! New UI! First person combat is no longer supported. Streamlined Skyrim is designed for third person combat so now you are forced to use it. Weapons and Armors now have some new tweaks. Flora and Fauna have gotten a face-lift with the addition of Renthal's old mods. Fixed MoreHud not being in mcm. Couldn't get the settings loader to work so its back to manual setup. Quicksave is now a regular save. Waiting and sleeping is faster.
+             
+            NEW SAVE IS REQUIRED because of perk tree changes made by Hand to Hand
+
 #### Streamlined Skyrim 1.1.0
 
 I've made so many changes it's not even worth writing each one here, but here is the gist of it:
