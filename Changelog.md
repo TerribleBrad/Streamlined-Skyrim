@@ -20,7 +20,20 @@
                 - Dual Wield Parrying Reimplementation Settings Loader
                 - Elder Souls Sweep Attack
                 - Simple Offence Suppression
-                - Flora Collection - All In One
+                - Flora Collection - All In One 2K
+                - Quieter Wolf Breathing
+                - Quieter Riekling
+                - Smooth Random Jump Animations
+                - Security Overhaul SKSE - Some More Locks
+                - More Radiant Quests for Companions
+                - Simple Dual Sheath
+                - Quick Light SE SMIM Lantern
+                - Simply Smaller Wolves
+                - Red Poppy 2K
+                - XP32 Maximum Skeleton
+                - No Boring Sleep-Wait Menu
+                - Mace of Aevar Stone-Singer (for Aosana <3)
+                - Nordic UI Persistent Meters
              
                 
                 
@@ -48,7 +61,7 @@
                 - Assorted Mesh Fixes
                 - Scrambled Bugs
              
-New UI! Fixed MoreHud not being in mcm. Couldn't get the settings loader to work so its back to manual setup. Quicksave is now a regualr save. Waiting and sleeping is faster.
+Streamlined is compiled with the new update! New UI! First person combat is no longer supported. Streamlined Skyrim is designed for third person combat so now you are forced to use it. Flora and Fauna have gotten a face-lift with the addition of Renthal's old mods. Fixed MoreHud not being in mcm. Couldn't get the settings loader to work so its back to manual setup. Quicksave is now a regular save. Waiting and sleeping is faster.
              
             NEW SAVE IS REQUIRED because of perk tree changes made by Hand to Hand
 
