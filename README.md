@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/TerribleBrad/Streamlined-Skyrim/main/Streamlined%20SkyrimBOld.webp)
+![Logo](https://raw.githubusercontent.com/TerribleBrad/Streamlined-Skyrim/main/Streamlined_Skyrim_Title_Page1.webp)
 
 # Streamlined Skyrim
 
@@ -6,10 +6,10 @@
 - [Noteworthy Mods and What Gameplay to Expect](#noteworthy-mods-and-what-gameplay-to-expect)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
-    - [Downgrade to 1.6.323](#downgrade-to-1.6.323)
+    - [Fully-Update-Skyrim!](#fully-upgrade-Skyrim!)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
     - [Steam Config](#steam-config)
-      - [Disable the Steam Overlay](#disable-the-steam-overlay)
+    - [Disable the Steam Overlay](#disable-the-steam-overlay)
     - [Change Steams Update Behavior](#change-steams-update-behavior)
     - [Set the Game language to English](#set-the-game-language-to-english)
     - [Clean Skyrim](#clean-skyrim)
@@ -40,7 +40,7 @@ Streamlined Skyrim offers modernized combat, new quests, enhanced roleplay mecha
 
 Streamlined Skyrim is a fork of the fantastic SME/FT list which I highly recommend to those who want to create their own modlist for Skyrim Special Edition.
 
-If you want to take a look at the full modlist here is the [link](https://loadorderlibrary.com/lists/streamlined-skyrim-2)
+If you want to take a look at the full modlist here is the [link](https://loadorderlibrary.com/lists/streamlined-skyrim-4)
 
 **Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation. Do not report issues/bugs/errors to mod authors! Seek out help from me or the other folks on the Wabbajack Discord**
 
@@ -97,8 +97,8 @@ So 158.54 GB **minimum** is required. I cannot stress how much a SSD is needed f
 
 These steps are only needed if you install the Modlist for the first time. If you are updating the Modlist, jump straight to [Updating](#updating).
 
-### Downgrade to 1.6.323 
-Streamlined Skyrim now is compiled with the 1.6.323 of Skyrim SE. Use this [patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files) to downgrade from 324 to 323. It is in the optional files! Anniversary Edition DLC is not required just the most recent update. Streamlined does not support any of the Creation Club content! Support is forfeit if you use Creation Club Mods!
+### Fully Upgrade Skyrim!
+Streamlined Skyrim now is compiled with the most recent update of Skyrim SE. Anniversary Edition DLC is not required just the most recent update. Streamlined does not support any of the Creation Club content! Support is forfeit if you use Creation Club Mods!
 
 #### Installing Microsoft Visual C++ Redistributable Package
 
@@ -218,27 +218,25 @@ Select 'New' to start a new game. You will load in to a view of Helgen. Wait aro
 ## In-Game MCM Options
 
 
-#### Dual Wield Parrying
+#### Dual Wield Parrying (ONLY IF YOU DON'T HAVE A MOUSE WITH EXTRA KEYS)
 - Block Key : Mouse 5 (I prefer mouse keys for this, but if that is not an option select a key near WASD like V)
 
 #### NASC
 - Mod Options
   - Stamina Consumption : 10
 
-#### Optimal Potion Hotkey
-- Hotkeys
- - Health potion hotkey : H
- (You can select a key for Stamina and Magicka potions as well)
+#### MoreHUD
+- Presets
+  - Save setting with PapyrusUtil
+    -   Preset : Streamlined Preset
+    -   Load User Settings? : Go
 
 #### SmoothCam  
 - Presets
-  - Load Preset : Modern Camera Preset
-- Crosshair
-   - Sneak Settings
-      - Enable Stealth Meter Offset : Disable
+  - Load Preset : Adventurer's Preset
 
 #### True Directional Movement (ONLY IF YOU DON'T HAVE A MOUSE WITH EXTRA KEYS)
-- General
+- Target Lock
     - Controls
       - Toggle Target Lock Key : It is set to Mouse 4, but if you don't have a mouse with extra buttons use a key near WASD like G
 
@@ -248,7 +246,7 @@ Here you can select your own desired settings for your playthrough.
 
    
 ## How to start playing
-Once you have finished setting creating your character a prompt will show up on your screen. Simply select continue and you will spawn at your selected location!
+Once you have finished setting creating your character a prompt will show up on your screen. Simply select continue and you will spawn at your selected location! To start the main quest as Dragonborn, you must slay a dragon. Skyrim Unbound removes the Helgen, Bleak Falls Barrow and slaying Mulmulnir at the watchtower quests. Once you absorb a dragon soul the Greybeards will summon you. To become Thane of Whiterun you must help Danica Pure-Spring regrow the Gildergreen. You will then get your Thaneship title, the option to buy Breezehome and Lydia as a follower. 
 
 #### Game Difficulty
 - The difficulty in Streamlined Skyrim is quite a bit harder than Vanilla so I suggest not using Legendary. I personally play on Expert.
@@ -264,11 +262,11 @@ Once you have finished setting creating your character a prompt will show up on 
   - Favorites: Shift
   - Quick Map: X
   - Lantern: L or Hold E
-  - Compass Hotkey: |\ (toggles)
+  - Map icon Hotkey: |\ (toggles) (Turn it on!)
 
 
 ## Last Things to Note
-Streamlined Skyrim's combat is very different from the vanilla game so when you first start playing the list it will take some time to get used to. The AI of enemies has been improved and they will be much more agressive. Stamina will regenerate much more quickly, but light attacks and dodges will consume it. True Directional Combat gives you the ability to lock onto targets and move in all directions. Use the mouse wheel to swap targets. Optimal Potion Hotkey allows you press H to consume potions without having to open a menu. Do NOT use when in first person! Pressing the space bar allows you to dodge. If you block an opponents attack within 0.2 seconds of it connecting your opponent will stagger. Your timing needs to be sharp! 
+Streamlined Skyrim's combat is very different from the vanilla game so when you first start playing the list it will take some time to get used to. The AI of enemies has been improved and they will be much more agressive. Stamina will regenerate much more quickly, but light attacks and dodges will consume it. True Directional Movement gives you the ability to lock onto targets and move in all directions. Use the mouse wheel to swap targets. Optimal Potion Hotkey allows you press H to consume potions without having to open a menu. Do NOT use when in first person! Pressing the space bar allows you to dodge. If you block an opponents attack within 0.2 seconds of it connecting your opponent will stagger. Your timing needs to be sharp! 
 
 Now that you have finished reading the Readme you are free to traverse the world of Skyrim!
 
