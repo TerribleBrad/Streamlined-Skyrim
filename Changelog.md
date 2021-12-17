@@ -34,8 +34,14 @@
                 - No Boring Sleep-Wait Menu
                 - Mace of Aevar Stone-Singer (for Aosana <3)
                 - Nordic UI Persistent Meters
-                - 
-             
+                - Simple Sprint Dodge Animation Replacer
+                - Smooth Dar Combat Dodge
+                - Smooth Dar Combat Dodge Add-on
+                - Weapon Armor Attribute Tweaks
+                - Sheathed Ebony Blade
+                - Remiros' Ebony Blade HD
+                - Unique Item Tweaks
+                - Action Based Projectiles
                 
                 
          - Removed:
@@ -51,6 +57,8 @@
                 - Rallys Hanging Moss
                 - Pine Shrub Killer
                 - Less Ugly Tundragrass
+                - Guard Dialogue Overhaul
+                - Haugbui
                 
                 
          - Updated:
@@ -63,7 +71,7 @@
                 - Scrambled Bugs
                 - Reliquary of Myth
              
-Streamlined is compiled with the new update! New UI! First person combat is no longer supported. Streamlined Skyrim is designed for third person combat so now you are forced to use it. Flora and Fauna have gotten a face-lift with the addition of Renthal's old mods. Fixed MoreHud not being in mcm. Couldn't get the settings loader to work so its back to manual setup. Quicksave is now a regular save. Waiting and sleeping is faster.
+Streamlined is compiled with the new update! New UI! First person combat is no longer supported. Streamlined Skyrim is designed for third person combat so now you are forced to use it. Weapons and Armors now have some new tweaks. Flora and Fauna have gotten a face-lift with the addition of Renthal's old mods. Fixed MoreHud not being in mcm. Couldn't get the settings loader to work so its back to manual setup. Quicksave is now a regular save. Waiting and sleeping is faster.
              
             NEW SAVE IS REQUIRED because of perk tree changes made by Hand to Hand
 
