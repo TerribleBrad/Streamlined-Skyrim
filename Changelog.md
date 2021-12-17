@@ -34,6 +34,7 @@
                 - No Boring Sleep-Wait Menu
                 - Mace of Aevar Stone-Singer (for Aosana <3)
                 - Nordic UI Persistent Meters
+                - 
              
                 
                 
@@ -60,6 +61,7 @@
                 - SKSE Engine Fixes
                 - Assorted Mesh Fixes
                 - Scrambled Bugs
+                - Reliquary of Myth
              
 Streamlined is compiled with the new update! New UI! First person combat is no longer supported. Streamlined Skyrim is designed for third person combat so now you are forced to use it. Flora and Fauna have gotten a face-lift with the addition of Renthal's old mods. Fixed MoreHud not being in mcm. Couldn't get the settings loader to work so its back to manual setup. Quicksave is now a regular save. Waiting and sleeping is faster.
              
