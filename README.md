@@ -228,7 +228,6 @@ Select 'New' to start a new game. You will load in to a view of Helgen. Wait aro
 #### MoreHUD
 - Presets
   - Save setting with PapyrusUtil
-    -   Preset : Streamlined Preset
     -   Load User Settings? : Go
 
 #### SmoothCam  
