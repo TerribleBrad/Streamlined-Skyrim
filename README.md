@@ -9,7 +9,7 @@
     - [Fully-Update-Skyrim!](#fully-upgrade-Skyrim!)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
     - [Steam Config](#steam-config)
-      - [Disable the Steam Overlay](#disable-the-steam-overlay)
+    - [Disable the Steam Overlay](#disable-the-steam-overlay)
     - [Change Steams Update Behavior](#change-steams-update-behavior)
     - [Set the Game language to English](#set-the-game-language-to-english)
     - [Clean Skyrim](#clean-skyrim)
