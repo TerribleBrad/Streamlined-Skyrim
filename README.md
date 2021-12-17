@@ -6,7 +6,7 @@
 - [Noteworthy Mods and What Gameplay to Expect](#noteworthy-mods-and-what-gameplay-to-expect)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
-    - [Fully-Update-Skyrim!](#fully-upgrade-Skyrim!)
+    - [Fully Update Skyrim!](#fully-upgrade-Skyrim!)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
     - [Steam Config](#steam-config)
     - [Disable the Steam Overlay](#disable-the-steam-overlay)
