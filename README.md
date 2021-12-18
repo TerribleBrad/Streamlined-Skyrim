@@ -304,6 +304,7 @@ Using them with Streamlined Skyrim would be like installing your own mods: Suppo
 - Halgari and everyone in the WJ Team.
 - Sovn for teaching me how to use xEdit, testing my list, letting me fork his Readme and answering all of my questions.
 - Chris for also teaching me xEdit, testing my list and finding everything I needed to patch.
+- My admin and moderators Aosona, Styx and Almightycricket for helping run my Discord channel.
 - To the members of my Discord, for their feedback, suggestions and bug finding.
 
 
