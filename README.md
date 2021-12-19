@@ -7,6 +7,7 @@
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
     - [Fully Update Skyrim!](#fully-upgrade-Skyrim!)
+    - [Install .NET 5.0 Runtime](#install-.net-5.0-runtime)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
     - [Steam Config](#steam-config)
     - [Disable the Steam Overlay](#disable-the-steam-overlay)
@@ -99,6 +100,9 @@ These steps are only needed if you install the Modlist for the first time. If yo
 
 ### Fully Update Skyrim!
 Streamlined Skyrim now is compiled with the most recent update of Skyrim SE. Anniversary Edition DLC is not required just the most recent update. Streamlined does not support any of the Creation Club content! Support is forfeit if you use Creation Club Mods!
+
+#### Install .NET 5.0 Runtime
+Please ensure you have .NET v5.0 installed. Download the desktop app x64 AND the console app x64 versions from Microsoft [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime)
 
 #### Installing Microsoft Visual C++ Redistributable Package
 
