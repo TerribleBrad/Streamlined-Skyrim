@@ -1,3 +1,15 @@
+#### Streamlined Skyrim 1.1.2
+        - Added:
+                - No Heavy Breathing Sound
+                - Disable Snow Grass
+                - 
+         - Removed:
+                - Simple offence suppression
+                
+         - Updated:
+         
+Made some changes to dual sheath ini to make shields go on people's backs
+
 #### Streamlined Skyrim 1.1.1
         - Added:
                 - Soul-Cairn Objects Secured
