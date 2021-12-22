@@ -2,9 +2,12 @@
         - Added:
                 - No Heavy Breathing Sound
                 - Disable Snow Grass
-                - 
+                - Heimskr Only Preaches on Weekends
+                - Shaders of Solstheim
+                
          - Removed:
                 - Simple offence suppression
+                - Better Dynamic Ash
                 
          - Updated:
          
