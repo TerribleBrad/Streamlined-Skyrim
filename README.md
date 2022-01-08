@@ -6,7 +6,6 @@
 - [Noteworthy Mods and What Gameplay to Expect](#noteworthy-mods-and-what-gameplay-to-expect)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
-    - [Fully Update Skyrim!](#fully-update-Skyrim)
     - [Install .NET 5.0 Runtime](#install-net-50-runtime)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
     - [Steam Config](#steam-config)
@@ -98,8 +97,8 @@ So 165 GB **minimum** is required. I cannot stress how much a SSD is needed for 
 
 These steps are only needed if you install the Modlist for the first time. If you are updating the Modlist, jump straight to [Updating](#updating).
 
-#### Fully Update Skyrim!
-Streamlined Skyrim now is compiled with the most recent update of Skyrim SE. Anniversary Edition DLC is not required just the most recent update. Streamlined does not support any of the Creation Club content! Support is forfeit if you use Creation Club Mods!
+#### Dowgrade from 353 to 342
+To play Streamlined Skyrim you must downgrade from Skyrim version 353 to 342 using [this patcher.](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files) Make sure you download the 353to342.exe file!
 
 #### Install .NET 5.0 Runtime
 Please ensure you have .NET v5.0 installed. Download the desktop app x64 AND the console app x64 versions from Microsoft [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime)
