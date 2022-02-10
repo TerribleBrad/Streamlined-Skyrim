@@ -1,3 +1,9 @@
+Wabbajack Modlist Installer by TerribleBrad
+
+**Modlist Download: [Streamlined Skyrim.wabbajack](https://drive.google.com/file/d/1WaHOwHGbAQQu0khWVQ3R3hHhwir6rCve/view)**
+
+**Modlist Support: [TerribleBrad's Tavern](https://discord.gg/5jkcvserk9)**
+
 ![Logo](https://raw.githubusercontent.com/TerribleBrad/Streamlined-Skyrim/main/Streamlined_Skyrim_Title_Page1.webp)
 
 # Streamlined Skyrim
