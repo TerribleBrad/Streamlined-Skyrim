@@ -1,3 +1,18 @@
+#### Streamlined Skyrim 1.1.2
+        - Added:
+                - No Heavy Breathing Sound
+                - Disable Snow Grass
+                - Heimskr Only Preaches on Weekends
+                - Shaders of Solstheim
+                
+         - Removed:
+                - Simple offence suppression
+                - Better Dynamic Ash
+                
+         - Updated:
+         
+Made some changes to dual sheath ini to make shields go on people's backs
+
 #### Streamlined Skyrim 1.1.1
         - Added:
                 - Soul-Cairn Objects Secured
